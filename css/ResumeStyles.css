@@ -28,3 +28,10 @@ ul li {
     color: gray;
     font-family:'Times New Roman', Times, serif;
 }
+body {
+    font-family:'Times New Roman', Times, serif;
+    text-align:center;
+    border: 5px solid black;
+    margin: 50px;
+    padding: 10px;
+}
