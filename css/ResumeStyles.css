@@ -1,0 +1,30 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+}
+section {
+    margin-bottom: 30px;
+}
+h1 {
+    font-size: 45px;
+}
+h2 {
+    margin-bottom: 10px;
+}
+h3 {
+    color: rgb(94, 86, 255);
+}
+h4 {
+    color: gray;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+ul li {
+    margin-bottom: 5px;
+    color: gray;
+    font-family:'Times New Roman', Times, serif;
+}

@@ -1,0 +1,30 @@
+h1 {
+    font-size: 50px;
+}
+h2 {
+    font-size: 25px;
+    color: rgb(134, 134, 134);
+}
+h3 {
+    font-size: 25px;
+}
+p{
+    font-weight:lighter;
+    font-size:20px;
+}
+body{
+    background-color:rgb(234, 234, 255);
+    font-family:'Times New Roman', Times, serif;
+    text-align:center;
+    border: 5px solid black;
+    margin: 50px;
+    padding: 10px;
+}
+ul{
+    list-style-position:inside;
+    color: rgb(52, 52, 52);
+}
+ol{
+    list-style-position:inside;
+    color: rgb(52, 52, 52);
+}
